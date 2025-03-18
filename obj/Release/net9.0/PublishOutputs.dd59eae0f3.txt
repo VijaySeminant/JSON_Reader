@@ -1,0 +1,8 @@
+C:\Users\Seminant\Desktop\JSON Reader\bin\Release\net9.0\publish\JSON Reader.exe
+C:\Users\Seminant\Desktop\JSON Reader\bin\Release\net9.0\publish\JSON Reader.dll
+C:\Users\Seminant\Desktop\JSON Reader\bin\Release\net9.0\publish\JSON Reader.deps.json
+C:\Users\Seminant\Desktop\JSON Reader\bin\Release\net9.0\publish\JSON Reader.runtimeconfig.json
+C:\Users\Seminant\Desktop\JSON Reader\bin\Release\net9.0\publish\JSON Reader.pdb
+C:\Users\Seminant\Desktop\JSON Reader\bin\Release\net9.0\publish\Microsoft.Office.Interop.Excel.dll
+C:\Users\Seminant\Desktop\JSON Reader\bin\Release\net9.0\publish\Office.dll
+C:\Users\Seminant\Desktop\JSON Reader\bin\Release\net9.0\publish\Newtonsoft.Json.dll

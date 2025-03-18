@@ -1,0 +1,19 @@
+C:\Users\Seminant\Desktop\JSON Reader\bin\Debug\net9.0\JSON Reader.exe
+C:\Users\Seminant\Desktop\JSON Reader\bin\Debug\net9.0\JSON Reader.deps.json
+C:\Users\Seminant\Desktop\JSON Reader\bin\Debug\net9.0\JSON Reader.runtimeconfig.json
+C:\Users\Seminant\Desktop\JSON Reader\bin\Debug\net9.0\JSON Reader.dll
+C:\Users\Seminant\Desktop\JSON Reader\bin\Debug\net9.0\JSON Reader.pdb
+C:\Users\Seminant\Desktop\JSON Reader\bin\Debug\net9.0\Microsoft.Office.Interop.Excel.dll
+C:\Users\Seminant\Desktop\JSON Reader\bin\Debug\net9.0\Office.dll
+C:\Users\Seminant\Desktop\JSON Reader\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Seminant\Desktop\JSON Reader\obj\Debug\net9.0\JSON Reader.csproj.AssemblyReference.cache
+C:\Users\Seminant\Desktop\JSON Reader\obj\Debug\net9.0\JSON Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seminant\Desktop\JSON Reader\obj\Debug\net9.0\JSON Reader.AssemblyInfoInputs.cache
+C:\Users\Seminant\Desktop\JSON Reader\obj\Debug\net9.0\JSON Reader.AssemblyInfo.cs
+C:\Users\Seminant\Desktop\JSON Reader\obj\Debug\net9.0\JSON Reader.csproj.CoreCompileInputs.cache
+C:\Users\Seminant\Desktop\JSON Reader\obj\Debug\net9.0\JSON Rea.8179FEB6.Up2Date
+C:\Users\Seminant\Desktop\JSON Reader\obj\Debug\net9.0\JSON Reader.dll
+C:\Users\Seminant\Desktop\JSON Reader\obj\Debug\net9.0\refint\JSON Reader.dll
+C:\Users\Seminant\Desktop\JSON Reader\obj\Debug\net9.0\JSON Reader.pdb
+C:\Users\Seminant\Desktop\JSON Reader\obj\Debug\net9.0\JSON Reader.genruntimeconfig.cache
+C:\Users\Seminant\Desktop\JSON Reader\obj\Debug\net9.0\ref\JSON Reader.dll
